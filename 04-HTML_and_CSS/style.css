@@ -1,0 +1,24 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: rgb(27, 210, 210);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    padding: 50px;
+}
+h1 {
+    /* font-size: 18px; */
+    text-align: center;
+    margin: 30px;
+}
+h2 {
+    margin: 10px;
+}
+p {
+    margin: 10px;
+    text-align: justify;
+}
